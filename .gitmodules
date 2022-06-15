@@ -4,4 +4,4 @@
         branch = v0.9.13
 [submodule "src/lshpack"]
 	path = src/lshpack
-	url = https://github.com/litespeedtech/ls-qpack
+	url = https://github.com/litespeedtech/ls-hpack
